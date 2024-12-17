@@ -9,7 +9,7 @@ I speak Spanish (Native), English (Fluent) and Portuguese (Basic).
 
 - 🔭 You can see my work on my [Portfolio](https://joaquinmezzano.vercel.app)
 
-- 🌱 I’m currently training [JavaScript, Java and SQL](https://github.com/joaquinmezzano/)
+- 🌱 I’m currently training [JavaScript, Java and SQL](https://github.com/joaquinmezzano/Practicas)
 
 - 📫 How to reach me: **mezzanojoaquin@gmail.com**
 

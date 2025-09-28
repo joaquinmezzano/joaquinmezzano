@@ -9,7 +9,7 @@ Proficiency in Spanish (native) and English (Fluent).
 
 - 🔭 You can see my work on my [Portfolio](https://joaquinmezzano.vercel.app)
 
-- 🌱 I’m currently training [JavaScript, Java and SQL](https://github.com/joaquinmezzano/Practicas)
+- 🌱 I’m currently working on [Collab Notes API - Spring Boot](https://github.com/joaquinmezzano/Collab-Notes-API) and [Creating a compiler](https://github.com/joaquinmezzano/proyecto-compiladores)
 
 - 📫 How to reach me: **mezzanojoaquin@gmail.com**
 
